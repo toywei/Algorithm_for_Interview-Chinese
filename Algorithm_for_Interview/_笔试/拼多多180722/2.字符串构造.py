@@ -21,7 +21,7 @@ for i in range(1, n + 1) :
 
 
 '''
-借助递归
+借助递归，而非数学等式建立算法
 '''
 
 testCases = ['aaaaa', 'aabaaba', 'abaabaa', 'abcabca', 'abcabcab', 'abcabceabcabceabc', 'abcabcefabcabcefabc']
